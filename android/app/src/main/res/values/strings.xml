@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Balloon</string>
+    <string name="facebook_app_id">274455707831759</string>
+    <string name="fb_login_protocol_scheme">fb274455707831759</string>
+</resources>
+
+
