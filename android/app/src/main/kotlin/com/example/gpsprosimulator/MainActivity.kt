@@ -1,4 +1,4 @@
-package com.example.gpsfake
+package com.example.gpsprosimulator
 
 import android.content.Context
 import android.content.Intent

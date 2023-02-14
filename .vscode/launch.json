@@ -5,18 +5,18 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "gpsfake",
+      "name": "gpsprosimulator",
       "request": "launch",
       "type": "dart"
     },
     {
-      "name": "gpsfake (profile mode)",
+      "name": "gpsprosimulator (profile mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "profile"
     },
     {
-      "name": "gpsfake (release mode)",
+      "name": "gpsprosimulator (release mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "release"

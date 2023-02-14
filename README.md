@@ -1,4 +1,4 @@
-# gpsfake
+# gpsprosimulator
 
 A new Flutter project.
 
